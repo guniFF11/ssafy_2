@@ -1,2 +1,2 @@
 # ssafy_2
-hello world
+beautiful world!
